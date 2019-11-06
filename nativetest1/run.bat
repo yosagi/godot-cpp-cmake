@@ -1,0 +1,1 @@
+godot -w --resolution 1280x1024 project.godot
